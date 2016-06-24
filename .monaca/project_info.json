@@ -1,0 +1,19 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca",
+        "org.apache.cordova.splashscreen",
+        "org.apache.cordova.statusbar",
+        "org.apache.cordova.device"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "5",
+    "title-ja": "",
+    "title-en": "Sara Come Grama",
+    "description-ja": "",
+    "description-en": "",
+    "category": "User Template",
+    "platform": [
+
+    ],
+    "name": "generated-1416875581-5473c27b7e2193bd57603452"
+}
